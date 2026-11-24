@@ -1,0 +1,6 @@
+module LabGeomVoxSplat {
+  header "LabGeomVoxSplat/ovoxel/qef.h"
+  header "LabGeomVoxSplat/ovoxel/splat_loader.h"
+  requires cplusplus
+  export *
+}

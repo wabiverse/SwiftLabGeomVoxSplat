@@ -1,0 +1,3 @@
+[submodule "LabGeomVoxSplat"]
+	path = LabGeomVoxSplat
+	url = https://codeberg.org/meshula/LabGeomVoxSplat.git
